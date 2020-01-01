@@ -26,7 +26,7 @@ window.onload = function() {
     'I\'m Swatish',
     'I, code, design, write, shoot and chill.',
     'I like working with people.<br> You can contact me at <a href="mailto:swatish.choudhury@gmail.com">swatish.choudhury@gmail.com</a>',
-    '<a target="_blank" href="https://swatishchoudhury.github.io/blog">swatish.me/blog</a><br><a target="_blank" href="https://www.linkedin.com/in/swatishchoudhury">https://www.linkedin.com/in/swatishchoudhury</a><br><a target="_blank" href="https://github.com/Swatishchoudhury">github.com/Swatishchoudhury</a>',
+    '<a target="_blank" href="https://swatishchoudhury.github.io/blog">swatish.me/blog</a><br><a target="_blank" href="https://www.linkedin.com/in/swatishchoudhury">www.linkedin.com/in/swatishchoudhury</a><br><a target="_blank" href="https://github.com/Swatishchoudhury">github.com/Swatishchoudhury</a>',
     getCurrentTime(),
     'sike.'
   ]
