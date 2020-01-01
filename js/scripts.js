@@ -25,10 +25,10 @@ window.onload = function() {
     'Hey there 👋',
     'I\'m Swatish',
     'I, code, design, write, shoot and chill.',
-    'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:hello@julian.gr">hello@julian.gr</a>',
+    'I like working with people.<br> You can contact me at <a href="mailto:swatish.choudhury@gmail.com">swatish.choudhury@gmail.com</a>',
     '<a target="_blank" href="https://twitter.com/juliangarnier">twitter.com/juliangarnier</a><br><a target="_blank" href="https://codepen.io/juliangarnier">codepen.io/juliangarnier</a><br><a target="_blank" href="https://github.com/juliangarnier">github.com/juliangarnier</a>',
     getCurrentTime(),
-    '👀 J.'
+    'sike.'
   ]
 
   var getFontSize = function() {
